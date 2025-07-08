@@ -91,5 +91,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinisomtshali&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
+---
+
+## ⏱️ My Coding Activity (via WakaTime)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=quebic&theme=default&hide_border=true" />
+</p>
+
 
 > ⚡ Currently developing Power Platform tools & looking to collaborate on low-code solutions and cloud-powered systems.
