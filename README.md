@@ -18,5 +18,5 @@
 - [More Projects →](https://github.com/qinisomtshali?tab=repositories)
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/qinisomtshali/)
-- [Portfolio](https://yourportfolio.vercel.app) ← update this when ready
+- [LinkedIn](linkedin.com/in/qiniso-mtshali-532394173)
+- [Portfolio](https://qiniso-power-showcase.vercel.app/)
