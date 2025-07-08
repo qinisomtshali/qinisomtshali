@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.png" width="100" alt="tech-logo" />
+  <img src="[https://i.imgur.com/4M7IWwP](https://power-fy.com/wp-content/uploads/2023/10/powerplatformapps.png).png" width="100" alt="tech-logo" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Qiniso Sakhiwo Mtshali</h1>
