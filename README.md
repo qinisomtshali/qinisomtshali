@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Qiniso Sakhiwo Mtshali
 
-<!--
-**qinisomtshali/qinisomtshali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Advanced Diploma in Multimedia Computing  
+👨‍💻 Power Platform Developer | Cloud Computing Enthusiast  
+🧠 Passionate about building low-code apps, cloud integrations, and inclusive tech solutions
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- Power Platform: Power Apps, Power Automate, Power BI, Dynamics 365
+- Cloud: Azure, AWS (certified)
+- Web: HTML, CSS, React, Next.js, Tailwind
+- Code: Python, JavaScript, C#, C++, Java
+- Tools: Git, GitHub, Figma, Unity, Adobe Suite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **Leave Request App** (Power Apps + SharePoint + Power Automate)  
+- **Sign Language Game** for the deaf community (Unity, C#, Azure)  
+- **QA File Processor** (Flow that analyzes uploaded files in SharePoint)  
+- [More Projects →](https://github.com/qinisomtshali?tab=repositories)
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/qinisomtshali/)
+- [Portfolio](https://yourportfolio.vercel.app) ← update this when ready
