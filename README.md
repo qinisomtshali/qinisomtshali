@@ -79,16 +79,14 @@
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qinisomtshali&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Qiniso's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qinisomtshali&show_icons=true&theme=default&count_private=true" alt="Qiniso's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinisomtshali&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinisomtshali&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
@@ -96,8 +94,9 @@
 ## ⏱️ My Coding Activity (via WakaTime)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=quebic&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=quebic&theme=default" alt="WakaTime Stats" />
 </p>
 
+---
 
 > ⚡ Currently developing Power Platform tools & looking to collaborate on low-code solutions and cloud-powered systems.
