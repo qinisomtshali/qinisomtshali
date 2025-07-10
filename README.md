@@ -94,7 +94,7 @@
 ## ⏱️ My Coding Activity (via WakaTime)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME_HERE&theme=default&hide_border=false" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=quebic&theme=default&hide_border=false" alt="WakaTime Stats" />
 </p>
 
 ---
