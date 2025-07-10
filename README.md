@@ -94,7 +94,7 @@
 ## ⏱️ My Coding Activity (via WakaTime)
 
 <p align="center">
-  [![wakatime](https://wakatime.com/badge/user/ae65a0f4-f458-44e2-afee-7bb3c3dfd06c.svg)](https://wakatime.com/@ae65a0f4-f458-44e2-afee-7bb3c3dfd06c)
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME_HERE&theme=default&hide_border=false" alt="WakaTime Stats" />
 </p>
 
 ---
