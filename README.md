@@ -94,7 +94,7 @@
 ## ⏱️ My Coding Activity (via WakaTime)
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/ae65a0f4-f458-44e2-afee-7bb3c3dfd06c.svg&theme=default" alt="WakaTime Stats" />
+  [![wakatime](https://wakatime.com/badge/user/ae65a0f4-f458-44e2-afee-7bb3c3dfd06c.svg)](https://wakatime.com/@ae65a0f4-f458-44e2-afee-7bb3c3dfd06c)
 </p>
 
 ---
