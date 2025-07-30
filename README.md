@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg" width="100" alt="tech-logo" />
+  <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg" width="200" alt="tech-logo" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Qiniso Sakhiwo Mtshali</h1>
